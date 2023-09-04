@@ -19,7 +19,7 @@ L'idée était aussi de créer un véritable protocole d'éxpérimentation et de
 As part of a school project, we used different sudoku solving methods using different artificial intelligence models:
 
 - Backtracking
--Naked Twins
+- Naked Twins
 - Neural network.
 
 Obviously, the main language used is Python and libraries linked to TensorFlow.
